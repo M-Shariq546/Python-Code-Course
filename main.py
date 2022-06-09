@@ -1,5 +1,4 @@
 import os
-from time import process_time_ns
 #String in Python
 greetings = "Assalam o Alaikum from  "
 name = "Muhammad Shariq Shafiq"
